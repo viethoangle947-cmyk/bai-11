@@ -1036,8 +1036,6 @@
     letter-spacing: -0.2px;
     color: #FFFFFF;
 }
-
-/* Responsive */
 @media (max-width: 1100px) {
     .menu,
     .hero-section,
